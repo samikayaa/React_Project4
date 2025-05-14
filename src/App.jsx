@@ -3,6 +3,8 @@ import Footer from './components/Footer';
 import './components/Layout.css';
 import Products from './components/Products';
 
+import * as React from 'react';
+
 function App() {
   return (
     <>
