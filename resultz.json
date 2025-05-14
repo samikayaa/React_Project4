@@ -1,0 +1,242 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 14,
+  "numPassedTests": 1,
+  "numFailedTests": 13,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1703745021899,
+  "success": false,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Products sayfasında styled-components import edilmiş.",
+          "status": "passed",
+          "title": "Products sayfasında styled-components import edilmiş.",
+          "duration": 2,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Products sayfasında styled-component olarak ProductCard oluşturulmuş ve kullanılmış.",
+          "status": "failed",
+          "title": "Products sayfasında styled-component olarak ProductCard oluşturulmuş ve kullanılmış.",
+          "duration": 4,
+          "failureMessages": [
+            "expected false to be true // Object.is equality"
+          ],
+          "location": {
+            "line": 21,
+            "column": 48
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Styled-component olarak Category oluşturulmuş ve kullanılmış.",
+          "status": "failed",
+          "title": "Styled-component olarak Category oluşturulmuş ve kullanılmış.",
+          "duration": 0,
+          "failureMessages": [
+            "expected false to be true // Object.is equality"
+          ],
+          "location": {
+            "line": 27,
+            "column": 45
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Styled-component olarak Image oluşturulmuş ve kullanılmış.",
+          "status": "failed",
+          "title": "Styled-component olarak Image oluşturulmuş ve kullanılmış.",
+          "duration": 1,
+          "failureMessages": [
+            "expected false to be true // Object.is equality"
+          ],
+          "location": {
+            "line": 33,
+            "column": 42
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Styled-component olarak PriceTag oluşturulmuş ve kullanılmış.",
+          "status": "failed",
+          "title": "Styled-component olarak PriceTag oluşturulmuş ve kullanılmış.",
+          "duration": 0,
+          "failureMessages": [
+            "expected false to be true // Object.is equality"
+          ],
+          "location": {
+            "line": 38,
+            "column": 45
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " PriceTag'a ürün kategorisi category prop'u ile iletilmiş",
+          "status": "failed",
+          "title": "PriceTag'a ürün kategorisi category prop'u ile iletilmiş",
+          "duration": 0,
+          "failureMessages": [
+            "expected false to be true // Object.is equality"
+          ],
+          "location": {
+            "line": 44,
+            "column": 45
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " PriceTag'da category prop'una göre renk dinamik olarak ayarlanmış",
+          "status": "failed",
+          "title": "PriceTag'da category prop'una göre renk dinamik olarak ayarlanmış",
+          "duration": 1,
+          "failureMessages": [
+            "Cannot read properties of undefined (reading 'split')"
+          ],
+          "location": {
+            "line": 50,
+            "column": 49
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " PriceTag'da hover eklenmiş",
+          "status": "failed",
+          "title": "PriceTag'da hover eklenmiş",
+          "duration": 0,
+          "failureMessages": [
+            "Cannot read properties of undefined (reading 'split')"
+          ],
+          "location": {
+            "line": 54,
+            "column": 49
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Styled-component olarak Title oluşturulmuş ve kullanılmış.",
+          "status": "failed",
+          "title": "Styled-component olarak Title oluşturulmuş ve kullanılmış.",
+          "duration": 0,
+          "failureMessages": [
+            "expected false to be true // Object.is equality"
+          ],
+          "location": {
+            "line": 63,
+            "column": 42
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Styled-component olarak Description oluşturulmuş ve kullanılmış.",
+          "status": "failed",
+          "title": "Styled-component olarak Description oluşturulmuş ve kullanılmış.",
+          "duration": 1,
+          "failureMessages": [
+            "expected false to be true // Object.is equality"
+          ],
+          "location": {
+            "line": 69,
+            "column": 48
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " getClassName fonksiyonu Products componentinden silinmiş",
+          "status": "failed",
+          "title": "getClassName fonksiyonu Products componentinden silinmiş",
+          "duration": 0,
+          "failureMessages": [
+            "expected true not to be true // Object.is equality"
+          ],
+          "location": {
+            "line": 75,
+            "column": 58
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Product.css importu Products componentinden silinmiş",
+          "status": "failed",
+          "title": "Product.css importu Products componentinden silinmiş",
+          "duration": 0,
+          "failureMessages": [
+            "expected true not to be true // Object.is equality"
+          ],
+          "location": {
+            "line": 79,
+            "column": 49
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Product componenti styled-components ile doğru şekilde render oluyor.",
+          "status": "failed",
+          "title": "Product componenti styled-components ile doğru şekilde render oluyor.",
+          "duration": 4,
+          "failureMessages": [
+            "expected false to be true // Object.is equality"
+          ],
+          "location": {
+            "line": 84,
+            "column": 42
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Styled componentler Products component fonksiyonun dışında tanımlanmış.",
+          "status": "failed",
+          "title": "Styled componentler Products component fonksiyonun dışında tanımlanmış.",
+          "duration": 1,
+          "failureMessages": [
+            "expected false to be true // Object.is equality"
+          ],
+          "location": {
+            "line": 93,
+            "column": 40
+          }
+        }
+      ],
+      "startTime": 1703745052730,
+      "endTime": 1703745052744,
+      "status": "failed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-cw5eef/src/__tests__/index.test.jsx"
+    }
+  ]
+}
